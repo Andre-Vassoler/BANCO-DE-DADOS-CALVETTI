@@ -33,7 +33,6 @@
 
 1. **Dois exemplos de dados brutos:**
    - `23.4°C às 14:01`
-   - `23.7°C às 14:02`
 
 2. **Transformação em informação útil:**
    - "A temperatura média da sala entre 14h e 15h foi de 24,1°C, 2°C acima do limite recomendado."
