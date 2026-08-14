@@ -1,11 +1,11 @@
-# 📘 Banco de Dados — T01: Fundamentos de Bancos de Dados
+# Banco de Dados — T01: Fundamentos de Bancos de Dados
 ### Exercícios de Fixação (Prof. Calvetti)
 
 > Respostas comentadas dos exercícios propostos na Parte 6 da aula.
 
 ---
 
-## 🔥 Exercício de Aquecimento — Diagnóstico Rápido
+## Exercício de Aquecimento — Diagnóstico Rápido
 
 **Cenário:** Uma equipe controla empréstimos de equipamentos em três planilhas.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧩 Nível 1 — Reconhecimento
+## Nível 1 — Reconhecimento
 **Classifique cada item: dado, informação ou metadado?**
 
 | Item | Classificação | Justificativa |
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌡️ Nível 2 — Interpretação
+## Nível 2 — Interpretação
 **Cenário:** registros de temperatura coletados a cada minuto.
 
 1. **Dois exemplos de dados brutos:**
@@ -42,7 +42,7 @@
 
 ---
 
-## 🗂️ Nível 3 — Diagnóstico
+## Nível 3 — Diagnóstico
 **Cenário:** vendas e suporte mantêm cadastros separados de clientes.
 
 | Item | Resposta |
@@ -54,7 +54,7 @@
 
 ---
 
-## ⚖️ Nível 4 — Decisão
+## Nível 4 — Decisão
 **Cenário:** associação com 80 membros, um único responsável atualiza mensalidades uma vez por mês.
 
 - **Solução inicial:** Planilha.
@@ -65,7 +65,7 @@
 
 ---
 
-## 🏗️ Nível 5 — Aplicação
+## Nível 5 — Aplicação
 **Cenário:** aplicação conectada pelo Workbench ao MySQL.
 
 | Elemento | Papel |
@@ -77,7 +77,7 @@
 
 ---
 
-## 🧱 Nível 6 — Estruturação
+## Nível 6 — Estruturação
 **Cenário:** controle de empréstimos de equipamentos.
 
 **Entidades e identificadores:**
@@ -94,7 +94,7 @@
 
 ---
 
-## ⚙️ Nível 7 — Raciocínio Técnico
+## Nível 7 — Raciocínio Técnico
 **Cenário:** um usuário executa `SHOW TABLES` no Workbench.
 
 **Ordem do fluxo:**
@@ -105,7 +105,7 @@
 
 ---
 
-## 🔐 Nível 8 — Avaliação
+## Nível 8 — Avaliação
 **Cenário:** uma equipe pede acesso irrestrito à base de clientes para criar um relatório.
 
 **Três perguntas antes de liberar o acesso:**
@@ -121,7 +121,7 @@
 
 ---
 
-## 🏥 Desafio Final — Solução Integrada
+## Desafio Final — Solução Integrada
 **Cenário:** uma clínica controla pacientes, consultas e pagamentos em arquivos separados.
 
 **Quatro riscos diagnosticados:**
