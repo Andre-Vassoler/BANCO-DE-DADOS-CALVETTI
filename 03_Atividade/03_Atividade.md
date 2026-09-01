@@ -284,7 +284,3 @@ Quando o relacionamento (tipicamente N:N) precisa: (a) possuir **atributos próp
 Transformando cada relacionamento em **frases nos dois sentidos**, **fixando uma ocorrência** de cada lado antes de contar a outra, testando com **exemplos e contraexemplos** concretos do domínio, e confirmando cada cardinalidade/participação com uma **regra de negócio explícita** declarada pelo especialista — nunca validando apenas pela aparência visual do diagrama.
 
 - **Validação é leitura disciplinada:** frases, contraexemplos e regras registradas corrigem o DER.
-
----
-
-*Documento gerado a partir do material "Relacionamentos e restrições" (T03) — Banco de Dados, Prof. Calvetti, Universidade São Judas Tadeu.*
