@@ -36,13 +36,9 @@ Perguntas de negócio associadas a cada tabela (conforme o material):
 | `pedido` | Quais pedidos são recentes? |
 | `item_pedido` | Quais linhas têm maior valor? |
 
-**Importante — escopo da T07:** nesta etapa do curso trabalhamos apenas com **SELECT / WHERE / ORDER BY / LIMIT / funções em uma única tabela**. `JOIN`, funções de agregação (`SUM`, `COUNT`, `AVG`...), `GROUP BY` e subconsultas ainda não foram vistos e **não são utilizados** neste documento.
-
 ---
 
 ## Exercícios Resolvidos (revisão)
-
-Estes exemplos já vêm resolvidos no material da aula; reproduzo-os aqui apenas como referência rápida, pois os exercícios propostos e o desafio se apoiam neles.
 
 **1. Quais categorias existem no catálogo?**
 ```sql
@@ -396,9 +392,6 @@ LIMIT 5 OFFSET 5;
 ---
 
 ## Síntese da T07
-
-O material fecha a aula com cinco decisões essenciais, que resumo como conferência final desta entrega:
-
 1. **SELECT** define quais colunas e expressões aparecem no resultado (incluindo colunas calculadas, sempre com alias).
 2. **WHERE** mantém apenas as linhas cuja condição é avaliada como `TRUE`; qualquer comparação com `NULL` é `UNKNOWN` e é descartada — por isso `NULL` exige os operadores `IS NULL` / `IS NOT NULL`.
 3. **DISTINCT** remove duplicatas considerando a combinação completa das colunas projetadas, não cada coluna isoladamente (diferente de `GROUP BY`, que ainda será visto em aulas futuras).
